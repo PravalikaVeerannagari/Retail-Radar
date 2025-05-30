@@ -17,11 +17,11 @@ This project connects with OpenAI's GPT-4 API to summarize the performance of pr
 
 ## Author
 
-Durga Kalyan Gandiboyina  
-Pursuing Master's in Computer Science at Florida Atlantic University  
-Former Software Engineer at DXC Technology, India  
+Pravalika Veerannagari  
+Masters in Data Science Analytics at Florida Atlantic University  
+ 
 GitHub: [github.com/PravalikaVeerannagari](https://github.com/PravalikaVeerannagari)  
-LinkedIn: [linkedin.com/in/durgakalyan](https://www.linkedin.com/in/durgakalyan)  
+LinkedIn: [linkedin.com/in/pravalikaveerannagari](www.linkedin.com/in/pravalikaveerannagari)  
 
 ## Note
 
